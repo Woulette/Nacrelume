@@ -11,7 +11,7 @@
 - vue 2D isométrique / trois-quarts haute ;
 - combats en temps réel, jamais au tour par tour ;
 - grandes zones ouvertes découpées techniquement en chunks invisibles ;
-- cartes construites dans Tiled à partir d’assets séparés ;
+- cartes prévues dans Tiled (outil recommandé, décision non verrouillée) à partir d’assets séparés ;
 - fantasy chaleureuse, florale et opaline ;
 - maisons réellement habitées, pierre claire, toits bleu-violet, eau cyan et cristal discret.
 
@@ -68,4 +68,3 @@ Les images actuelles sont des **références de direction artistique et de compo
     ├── images/
     └── reference/
 ```
-
