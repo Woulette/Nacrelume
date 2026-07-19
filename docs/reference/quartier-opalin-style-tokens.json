@@ -1,0 +1,65 @@
+{
+  "style_id": "quartier-opalin-v1",
+  "status": "official",
+  "version": "1.0",
+  "validated_on": "2026-07-19",
+  "master_reference": "quartier-opalin-reference-officielle.png",
+  "camera": {
+    "projection": "2d-isometric-high-three-quarter",
+    "horizon_visible": false,
+    "light_direction": "upper-left",
+    "shadow_direction": "lower-right",
+    "rendering": "hand-painted-pixel-art"
+  },
+  "palette": {
+    "shadow_slate": "#283853",
+    "dark_blue_foliage": "#304F5C",
+    "deep_water": "#2C619E",
+    "cyan_water": "#3997BB",
+    "blue_violet_roof": "#646497",
+    "light_violet_tile": "#8F78C8",
+    "opal_wisteria": "#A69FD1",
+    "shadow_stone": "#A09593",
+    "warm_stone": "#B7A791",
+    "pearl_plaster": "#D8C5B1",
+    "warm_wood": "#966439",
+    "vegetal_ground": "#748566"
+  },
+  "material_balance_percent": {
+    "pearl_stone_and_plaster": 35,
+    "blue_green_vegetation": 20,
+    "blue_violet_roofs": 15,
+    "cyan_water": 10,
+    "wood_and_warm_details": 10,
+    "dark_wrought_iron": 5,
+    "crystal_and_opal_accents": 5
+  },
+  "architecture_required": [
+    "recognizable inhabited houses",
+    "pale stone and pearly plaster facades",
+    "blue-violet pitched slate roofs",
+    "usable wooden doors and windows",
+    "chimneys, narrow porches and wrought-iron balconies",
+    "restrained wisteria and domestic props"
+  ],
+  "environment_required": [
+    "pearly irregular cobblestones",
+    "cyan water with deep-blue shadows",
+    "pale masonry bridges",
+    "dark wrought-iron fences",
+    "blue-green vegetation, white flowers and opal wisteria",
+    "small crystal lanterns used sparingly"
+  ],
+  "forbidden": [
+    "futuristic or sci-fi architecture",
+    "abstract houses or glass domes",
+    "floating structures or orbital rings",
+    "lasers, technological neon or energy fences",
+    "buildings made primarily from crystal",
+    "oversized circular stone or energy portals",
+    "over-rounded overloaded fantasy cottages",
+    "copied assets, silhouettes or UI from existing games",
+    "camera, scale, lighting or saturation drift"
+  ]
+}
+
